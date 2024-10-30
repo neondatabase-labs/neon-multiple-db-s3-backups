@@ -2,5 +2,5 @@
 
 The code in this repository has been explained in detail on the Neon blog.
 
-1. [How to create an AWS S3 bucket for Postgres backups](https://neon.tech/blog/tbd)
-2. [How to Set Up Nightly Backups to AWS S3 for Multiple Neon Projects](https://neon.tech/blog/tbd)
+1. [How to create an AWS S3 bucket for Postgres backups](https://neon.tech/blog/how-to-create-an-aws-s3-bucket-for-postgres-backups)
+2. [How to Set Up Nightly Backups to AWS S3 for Multiple Neon Projects](https://neon.tech/blog/nightly-backups-for-multiple-neon-projects)
